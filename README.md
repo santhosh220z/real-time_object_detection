@@ -8,11 +8,13 @@ YOLOv8 model comes in 5 different sizes
 
 ## models
  
-| Name    | Age | Profession      |
-|---------|-----|-----------------|
-| Alice   | 25  | Software Engineer |
-| Bob     | 30  | Designer         |
-| Charlie | 35  | Product Manager |
+| name    | description   |
+|---------|-----------------|
+| YOLOv8n  | nano model.|
+| YOLOv8s | small model.|
+| YOLOv8m | medium model.|
+| YOLOv8l | large model.|
+| YOLOv8x | extra large model.|
 
 
 for our projet we selected YOLOv8s model for optimal use cases and it uses less computational power to detect objects in the object detection project 
