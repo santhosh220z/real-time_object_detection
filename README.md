@@ -2,7 +2,7 @@
 
 our realtime object detection uses yolov8s model.
 
-YOLOv8 is a computer vision model architecture developed by Ultralytics, the creators of YOLOv5. You can deploy YOLOv8 models on a wide range of devices, including NVIDIA Jetson, NVIDIA GPUs, and macOS systems with Roboflow Inference, an open source Python package for running vision models.
+#YOLOv8# is a computer vision model architecture developed by Ultralytics, the creators of YOLOv5. You can deploy YOLOv8 models on a wide range of devices, including NVIDIA Jetson, NVIDIA GPUs, and macOS systems with Roboflow Inference, an open source Python package for running vision models.
 
 YOLOv8 model comes in 5 different sizes 
     1.YOLOv8n ==> nano model in yolo.
