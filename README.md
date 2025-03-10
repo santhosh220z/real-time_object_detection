@@ -6,7 +6,8 @@ our realtime object detection uses yolov8s model.
 
 YOLOv8 model comes in 5 different sizes 
 
-   |------------|---------------------| 
+## models
+ 
    |1.YOLOv8n   | nano model in yolo. |
    |            |                     |
    | 2.YOLOv8s  |  small model.       |
@@ -16,7 +17,6 @@ YOLOv8 model comes in 5 different sizes
    | 4.YOLOv8l  |  large model.       |
    |            |                     |
    | 5.YOLOv8x  |  xtra large model.  |
-   |------------|---------------------| 
 
 for our projet we selected YOLOv8s model for optimal use cases and it uses less computational power to detect objects in the object detection project 
     the main goal of our project is to accurately detect and label our day to day objects in our surrondings.
